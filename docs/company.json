@@ -1,0 +1,15 @@
+{
+  "id": "33231931",
+  "cui": "33231931",
+  "company": "RHENUS MIDI DATA ROMANIA SRL",
+  "brand": "Rhenus Midi Data",
+  "status": "activ",
+  "location": [
+    "Alba Iulia"
+  ],
+  "website": [],
+  "career": [
+    "https://www.rhenus.group/career/jobboard/"
+  ],
+  "scraperFile": "https://github.com/peviitor-scrapers/rhenus-midi-data-romania-python-scraper/actions/workflows/job-seeker-ro-spider.yml"
+}
