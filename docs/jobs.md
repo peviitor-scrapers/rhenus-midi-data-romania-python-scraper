@@ -7,17 +7,9 @@
 | CIF | 33231931 |
 | Brand | Rhenus Midi Data |
 | Career | https://www.rhenus.group/career/jobboard/ |
-| LastScraped | 2026-11-23 |
+| LastScraped | 2026-11-24 |
 
-## Jobs (5)
-
-### AGENT DE VÂNZARI
-
-- **URL**: [https://mediere.anofm.ro/app/module/mediere/job/3448503](https://mediere.anofm.ro/app/module/mediere/job/3448503)
-- **Location**: MUNICIPIUL ALBA IULIA
-- **Work Mode**: on-site
-- **Tags**: vanzari, pclm, cu-norma-intreaga, cu-durata-nedeterminata, sediu, primar-fara-studii, fara-experienta-0-ani
-- **Status**: scraped
+## Jobs (1)
 
 ### Pricing & Sales Support Specialist
 
@@ -25,25 +17,5 @@
 - **Location**: Alba lulia
 - **Status**: scraped
 
-### AGENT DE VÂNZARI
-
-- **URL**: [https://bebee.com/ro/jobs/agent-de-vanzari-rhenus-midi-data-romania-srl-alba-iulia--techmap_ro_3448503](https://bebee.com/ro/jobs/agent-de-vanzari-rhenus-midi-data-romania-srl-alba-iulia--techmap_ro_3448503)
-- **Location**: ALBA IULIA
-- **Status**: scraped
-
-### Agent de vânzari
-
-- **URL**: [https://jobica.ro/job/agent-vanzari-alba-iulia-anofm-3448503](https://jobica.ro/job/agent-vanzari-alba-iulia-anofm-3448503)
-- **Location**: Municipiul Alba Iulia
-- **Status**: scraped
-
-### Agent de vânzări
-
-- **URL**: [https://cauta.ro/locuri-de-munca/anunt/agent-de-vanzari-alba-iulia-alba-3448503](https://cauta.ro/locuri-de-munca/anunt/agent-de-vanzari-alba-iulia-alba-3448503)
-- **Location**: MUNICIPIUL ALBA IULIA
-- **Work Mode**: on-site
-- **Tags**: vanzari, pclm, cu-norma-intreaga, cu-durata-nedeterminata, sediu, primar-fara-studii, fara-experienta-0-ani
-- **Status**: scraped
-
 ---
-_Generated at 2026-11-23T17:17:56Z_
+_Generated at 2026-11-24T16:55:43Z_
