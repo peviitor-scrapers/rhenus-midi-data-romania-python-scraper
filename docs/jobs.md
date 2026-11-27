@@ -7,7 +7,7 @@
 | CIF | 33231931 |
 | Brand | Rhenus Midi Data |
 | Career | https://www.rhenus.group/career/jobboard/ |
-| LastScraped | 2026-11-26 |
+| LastScraped | 2026-11-27 |
 
 ## Jobs (1)
 
@@ -18,4 +18,4 @@
 - **Status**: scraped
 
 ---
-_Generated at 2026-11-26T16:20:13Z_
+_Generated at 2026-11-27T16:04:22Z_
